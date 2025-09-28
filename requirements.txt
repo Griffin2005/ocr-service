@@ -1,1 +1,14 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pytesseract
+pdf2image
+Pillow
+pymupdf
+sumy
+langdetect
+tqdm
+python-docx
+openpyxl
+easyocr
 
